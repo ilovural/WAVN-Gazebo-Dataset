@@ -16,7 +16,7 @@ Thank you to [Natnael Desta](https://github.com/natitedros) of Fordham Universit
 
 [Federated Siamese Convolutional Neural Network (CNN) Repository](https://github.com/natitedros/WAVN-Federated-Learning)
 
-[Topological Aware Hybrid CNN-Graph Neural Network Repository](https://github.com/ilovural/GNN-Federated-Visual-Homing-for-Cooperative-Multi-Robot-Navigation-in-GPS-Denied-Environments)
+[Topological Aware Hybrid CNN-Graph Neural Network Repository]([https://github.com/ilovural/GNN-Federated-Visual-Homing-for-Cooperative-Multi-Robot-Navigation-in-GPS-Denied-Environments](https://github.com/ilovural/WAVN-Topological-Aware-Hybrid-CNN-GNN.git)
 
 ## Instructions To Set-Up Gazebo Environment:
 1. Prerequisites. 
